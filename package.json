@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@lit-protocol/auth-helpers": "^6.11.0",
+    "@lit-protocol/constants": "^6.11.0",
+    "@lit-protocol/lit-node-client": "^6.11.0",
+    "ethers": "^5.7.2",
+    "lit-js-sdk": "^1.1.250"
+  },
+  "devDependencies": {
+    "@types/node": "^22.7.7"
+  }
+}
